@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sminnt
+- 👀 I’m interested in etichal hacking and programign
+- 🌱 I’m currently learning java script and python
+- 📫 How to reach me ericvargasseco.developer@gmail.com
