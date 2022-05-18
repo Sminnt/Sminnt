@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sminnt
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 📫 How to reach me ericvargasseco.developer@gmail.com
